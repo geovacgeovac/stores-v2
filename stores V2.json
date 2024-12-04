@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Store A",
+    "address": "123 Main St, Toronto, ON",
+    "postal_code": "M5H 2N2",
+    "latitude": 43.65107,
+    "longitude": -79.347015,
+    "contact": "123-456-7890",
+    "tags": ["electronics", "furniture"]
+  }
+
+{
+    "name": "Store B",
+    "address": "1440 Ryan Place, Mississauga, ON",
+    "postal_code": "L5C 1J6",
+    "latitude": 43.55070,
+    "longitude": -79.65327,
+    "contact": "123-456-7890",
+    "tags": ["electronics", "furniture"]
+  }
+
+
+]
+
